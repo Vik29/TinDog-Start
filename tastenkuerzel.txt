@@ -1,0 +1,9 @@
+Kommentare automatisch setzen (je nach Sprache)
+- Text verfassen
+- Markieren
+- Strg+Shift+7 drücken
+
+Mehrere Zeilen gleichzeitig mit dem gleichen Text beschriften
+- Alt halten und mit der Maustaste die Zeilen markieren
+- Cursor wird entsprechend länger
+- alles was getippt wird wird in allen Zeilen getippt
