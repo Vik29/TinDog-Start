@@ -1,4 +1,4 @@
-Kommentare automatisch setzen (je nach Sprache)
+Kommentare automatisch setzen (je nach Sprache) oder auch wieder entfernen
 - Text verfassen
 - Markieren
 - Strg+Shift+7 drücken
@@ -7,3 +7,6 @@ Mehrere Zeilen gleichzeitig mit dem gleichen Text beschriften
 - Alt halten und mit der Maustaste die Zeilen markieren
 - Cursor wird entsprechend länger
 - alles was getippt wird wird in allen Zeilen getippt
+
+Code automatisch einrücken
+- Strg+Alt+B (Shortcut um "beautify" auszuführen, eine Extension von Atom)
